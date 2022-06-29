@@ -1,0 +1,34 @@
+body{
+    margin: auto;
+}
+.formCenter{
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+}
+.buttons{
+    text-align: center;
+}
+.space{
+    margin: 4px;
+    margin-left: 15px;
+    padding: 5px;
+    width: 25%;
+}
+.mainHead{
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+.logOutBtn{
+    text-align: center;
+    margin-left: 45%;
+    width: 150px;
+}
+.bodyInLogOut{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    margin: 15px;
+}
